@@ -1,0 +1,19 @@
+{
+  "name": "tbn",
+  "version": "1.0.0",
+  "description": "to be named",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alvin562/tbn.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alvin562/tbn/issues"
+  },
+  "homepage": "https://github.com/alvin562/tbn#readme"
+}
